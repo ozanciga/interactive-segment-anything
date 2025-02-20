@@ -1,0 +1,10 @@
+matplotlib
+torch
+transformers
+opencv-python-headless
+scipy
+Pillow
+panel
+bokeh
+numpy<2
+scikit-image

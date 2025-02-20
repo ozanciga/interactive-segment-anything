@@ -1,0 +1,5 @@
+assets/
+!assets/example/
+!assets/images/
+*.pyc
+*__pycache__/*
